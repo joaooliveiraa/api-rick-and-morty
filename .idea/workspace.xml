@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f60a54-4625-4392-9b9d-3ec3e02276bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api-rick-and-morty/src/main/java/com/api/apirickandmorty/client/RickAndMortyClient.java" afterDir="false" />
+      <changelist_data name="Joao Oliveira" email="joaogetknow@gmail.com" date="1655232867000" />
+      <change afterPath="$PROJECT_DIR$/api-rick-and-morty/src/main/java/com/api/apirickandmorty/controller/RickAndMortyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-rick-and-morty/src/main/java/com/api/apirickandmorty/response/CharacterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-rick-and-morty/src/main/java/com/api/apirickandmorty/response/CharacterResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
